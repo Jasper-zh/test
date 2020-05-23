@@ -12,6 +12,7 @@ public class Game {
 
     public Game() {
         // 初始化地图
+
         init();
     }
 
