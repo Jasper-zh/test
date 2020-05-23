@@ -3,6 +3,7 @@ package mk2;
 public class Game {
     public int n = 21;// 地图的规模
     public String color;// 确认是白方，还是黑方
+
     public String mark = "╋";
     public String white = "○";
     public String black = "●";
